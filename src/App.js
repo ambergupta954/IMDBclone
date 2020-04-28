@@ -30,8 +30,9 @@ function App() {
 
  function Home() {
   return (
-    <div>
-      <h3>Home</h3>
+    <div className="movie-row">
+     
+      <h3>A simple react App that uses TMDB API</h3>
     </div>
   )
 }
