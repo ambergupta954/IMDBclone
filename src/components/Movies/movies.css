@@ -1,0 +1,96 @@
+.movie-img{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+.head{
+    display: flex;
+    justify-content: start;
+    margin: 0 200px;
+}
+.movie-row{
+    display: flex;
+    width: 80%;
+    margin: 10px auto;
+    color: white;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #282C34;
+    flex: 1 1;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+  
+}
+.desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    color: white;
+    padding: 10px;
+}
+.info-movie{
+    display: flex;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+  
+    
+   
+    width: 80%;
+    margin: 10px auto;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    background-color: #282C34;
+    flex: 1 1;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+.info-img{
+    width: 300px;
+    
+}
+.movie-card{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  ;
+  
+}
+.button{
+    background-color:rgb(255, 196, 0); 
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    width: 200px;
+   border-radius: 20px;
+   border-style: none;
+   cursor: pointer;
+}
