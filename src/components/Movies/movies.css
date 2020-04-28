@@ -18,7 +18,7 @@ img{
     margin: 10px auto;
     color: white;
     flex-direction: row;
-    justify-content: center;
+    justify-content: row;
     align-items: center;
     background-color: #282C34;
     flex: 1 1;
